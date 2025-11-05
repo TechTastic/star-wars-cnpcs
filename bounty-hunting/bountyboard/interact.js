@@ -47,7 +47,8 @@ quest.setCompleteText("Good job, we will be in touch again.")
 quest.setLogText("Your target is " + target.getName() + ".\nThey are on " + world.getDimensionID() + " around " + x + ", " + y + ", " + z + ".\n\nDo not fail us.")
 quest.setName("The " + target.getName() + " Contract")
 quest.setType(2); // kill
-// set target
+// set target - QuestKill?
 // set rewards
 
 // Assign quest to player
+// Give Puck?
